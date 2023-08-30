@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Main{
+public class SimpleFibonacci{
 	public static void main(String[] args) {
 		int firstNum=0, secondNum=1, res, num;
 		Scanner s1 = new Scanner(System.in);

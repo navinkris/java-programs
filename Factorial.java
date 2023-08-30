@@ -3,7 +3,7 @@
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class Main {
+public class Factorial {
     public static void main(String[] args) {
         int num;
         BigInteger res=BigInteger.ONE;
@@ -18,7 +18,6 @@ public class Main {
                 res = res.multiply(BigInteger.valueOf(i));
             }
         }
-        System.out.print("Factorial of num "+num+" is "+ res);
-        
+        System.out.print("Factorial of num "+num+" is "+ res); 
     }
 }

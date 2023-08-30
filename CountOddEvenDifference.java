@@ -19,7 +19,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class CountOddEvenDifference {
     public static void main(String[] args) {
         int num, countOdd = 0, countEven = 0;
         Scanner sc = new Scanner(System.in);

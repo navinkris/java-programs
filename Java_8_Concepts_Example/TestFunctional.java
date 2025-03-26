@@ -1,5 +1,3 @@
-package com.kyakarotz.cruddemo;
-
 import java.util.ArrayList;
 
 interface FuncInterface {
